@@ -1,8 +1,8 @@
 body {
-    background-image: url(/register/image/ai-generated-7937771.jpg);
+    background-image: url("/image/背景小.webp"), url("/image/背景.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: 0px -50px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
 
 .registercard {
